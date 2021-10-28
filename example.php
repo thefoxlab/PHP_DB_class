@@ -17,7 +17,6 @@ $rs = $db->update($table,['name'=>$name],[$pk=>2]);
 $list = $db->get($table,$select,$pk." != '1'",[[$pk=>'ASC'], ['name'=>'ASC']],5);
 echo "<pre>";print_r($list);exit;
 
-
 /* DATATAHBLE */
 
 require_once(BASE_PATH.'/include/Datatables.php');
