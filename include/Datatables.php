@@ -5,16 +5,13 @@
 
  * MysqliDb Datatables Wrapper
  *
- * This is a wrapper class/library based on the native Datatables server-side implementation by Allan Jardine
- * Extended by Rajnish Savaliya as per needs
- *
  * @package    CorePHP 
  * @subpackage libraries
  * @category   library
  * @version    1.0
- * @author     Rajnish Savaliya <rajnishsavaliya@gmail.com>
+ * @modified     Rajnish Savaliya <rajnishsavaliya@gmail.com>
 
-Work extended from original creators:
+Original authors/inspired from : 
 
  * Ignited Datatables
  *
