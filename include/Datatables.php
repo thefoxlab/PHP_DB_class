@@ -1,6 +1,8 @@
 <?php
 
 /**
+
+
  * MysqliDb Datatables Wrapper
  *
  * This is a wrapper class/library based on the native Datatables server-side implementation by Allan Jardine
@@ -11,7 +13,24 @@
  * @category   library
  * @version    1.0
  * @author     Rajnish Savaliya <rajnishsavaliya@gmail.com>
- */
+
+Work extended from original creators:
+
+ * Ignited Datatables
+ *
+ * This is a wrapper class/library based on the native Datatables server-side implementation by Allan Jardine
+ * found at http://datatables.net/examples/data_sources/server_side.html for CodeIgniter
+ *
+ * @package    CodeIgniter
+ * @subpackage libraries
+ * @category   library
+ * @version    1.15
+ * @author     Vincent Bambico <metal.conspiracy@gmail.com>
+ *             Yusuf Ozdemir <yusuf@ozdemir.be>
+ * @link       http://ellislab.com/forums/viewthread/160896/
+
+
+*/
 
 class Datatables {
 
